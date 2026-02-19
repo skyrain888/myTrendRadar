@@ -230,6 +230,16 @@
 [AI 相关]
 /(?<![a-zA-Z])ai(?![a-zA-Z])/
 人工智能
+claude
+coding
+agent
+vibe coding
+openai 
+codex
+gemini
+千问
+minimax
+kimi
 
 [芯片]
 芯片
